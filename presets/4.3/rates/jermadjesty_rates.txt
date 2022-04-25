@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RATES
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: _jermadjesty, freestyle
+#$ KEYWORDS: jermadjesty, freestyle
 #$ AUTHOR: _jermadjesty
 #$ DESCRIPTION: My actual rates. The betaflight rates are Bardwell's because I copied his Bardwell.txt
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/94

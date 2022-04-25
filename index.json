@@ -175,7 +175,6 @@
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
-      "_jermadjesty",
       "\\\\GAS",
       "111hz",
       "150Hz",
@@ -294,6 +293,7 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
+      "jermadjesty",
       "justice",
       "karate",
       "KarateBrot",
@@ -778,35 +778,16 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/modes/jermadjesty.txt",
-      "hash": "64a9346420695eeb1b0e67989cde41e17218c132619e9f586258e0a19150ba10",
-      "title": "Mambo ELRS _jermadjesty 4.3 Modes",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "MODES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "_jermadjesty",
-        "mode",
-        "modes",
-        "aux",
-        "switch"
-      ],
-      "author": "_jermadjesty",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/modes/jermadjesty_modes.txt",
-      "hash": "1bb897f3b0fb218ca07f4b7ed2806f0c087c71fc7faeb8811b4ee2e739bebf87",
-      "title": "Mambo ELRS _jermadjesty 4.3 Modes",
+      "hash": "694d3ada67d5fc8a1b172ca1dbdaeaaaaac9c78ee150bdf84b641f79a7a3b8ad",
+      "title": "Mambo ELRS jermadjesty 4.3 Modes",
       "firmware_version": [
         "4.3"
       ],
       "category": "MODES",
-      "status": "OFFICIAL",
+      "status": "EXPERIMENTAL",
       "keywords": [
-        "_jermadjesty",
+        "jermadjesty",
         "mode",
         "modes",
         "aux",
@@ -834,8 +815,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/ELRS_Analog.txt",
-      "hash": "4b0ee92c50ad1b3e299dca69a2b2f064d3e8b686d6857619175e01b9368a6b1f",
-      "title": "_jermadjesty ELRS Analog 4.3 OSD settings",
+      "hash": "f3e265735c488eb9826e487da9461ff58beabc1654f695c2798fda36bf3e53ae",
+      "title": "jermadjesty ELRS Analog 4.3 OSD settings",
       "firmware_version": [
         "4.3"
       ],
@@ -843,7 +824,8 @@
       "status": "EXPERIMENTAL",
       "keywords": [
         "custom",
-        "OSD"
+        "OSD",
+        "jermadjesty"
       ],
       "author": "_jermadjesty",
       "priority": 0
@@ -1257,7 +1239,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/jermadjesty_rates.txt",
-      "hash": "30e2234582ffe5d08d89c0776e346609f08367fb3314f633cd0f0e8d99bb347e",
+      "hash": "debfcfddf9afd58c91c9a83886c54f849ec1ec9bb3740071e5bbaadeda071f25",
       "title": "Jermadjestic rates",
       "firmware_version": [
         "4.3"
@@ -1265,7 +1247,7 @@
       "category": "RATES",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "_jermadjesty",
+        "jermadjesty",
         "freestyle"
       ],
       "author": "_jermadjesty",
@@ -1454,8 +1436,8 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_250hz_jermadjesty.txt",
-      "hash": "c168d549cca3e6949b3dbeb4a2789eda0504a96a6336d738b3ed92e6ee32d4b2",
-      "title": "SPI _jermadjesty's ELRS 250Hz",
+      "hash": "404c9fac7c5cf23472dfbabe57a1babc01818d7cfc98aaf766f96b6ab0aada53",
+      "title": "SPI jermadjesty's ELRS 250Hz",
       "firmware_version": [
         "4.3"
       ],
@@ -1463,7 +1445,7 @@
       "status": "EXPERIMENTAL",
       "keywords": [
         "ELRS",
-        "_jermadjesty",
+        "jermadjesty",
         "express",
         "250Hz",
         "rc",
