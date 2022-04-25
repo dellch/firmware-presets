@@ -778,17 +778,18 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/modes/jermadjesty.txt",
-      "hash": "eef896993d03fe930b6ffd674be92fa5fd53e6f6de4bff9e3df24939e2a8a960",
+      "fullPath": "presets/4.3/modes/jermadjesty_modes.txt",
+      "hash": "6fc229c4c15a29ddbb3e61cf8e80c53be392f1f908ed9c27900e8d6fddc037b8",
       "title": "jermadjesty ELRS Analog 4.3 OSD settings",
       "firmware_version": [
         "4.3"
       ],
-      "category": "OSD",
+      "category": "MODES",
       "status": "EXPERIMENTAL",
       "keywords": [
         "custom",
-        "OSD"
+        "mode",
+        "modes"
       ],
       "author": "jermadjesty",
       "priority": 0
@@ -1234,7 +1235,7 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rates/jermadjesty.txt",
+      "fullPath": "presets/4.3/rates/jermadjesty_rates.txt",
       "hash": "3956edb923f577ad87d9884c6b28d1ad416c83516461ddbba63eee3dbb24899f",
       "title": "Jermadjestic rates",
       "firmware_version": [
