@@ -1,9 +1,9 @@
-#$ TITLE: SPI Jermadjesty's ELRS 250Hz
+#$ TITLE: SPI _jermadjesty's ELRS 250Hz
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RC_LINK
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: ELRS, jermadjesty, express, 250Hz, rc, rx, link, smoothing
-#$ AUTHOR: jermadjesty
+#$ KEYWORDS: ELRS, _jermadjesty, express, 250Hz, rc, rx, link, smoothing
+#$ AUTHOR: _jermadjesty
 #$ DESCRIPTION: Copied from ctzsnooze - just added my binding
 #$ DESCRIPTION: RC link settings for a 250Hz ELRS link via CRSF.
 #$ DESCRIPTION: WARNING: make ABSOLUTELY SURE that the OpenTx or EdgeTx Hardware ADC Filter is un-checked!

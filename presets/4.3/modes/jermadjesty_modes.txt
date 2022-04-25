@@ -1,9 +1,9 @@
-#$ TITLE: Mambo ELRS Jermadjesty 4.3 Modes
+#$ TITLE: Mambo ELRS _jermadjesty 4.3 Modes
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: jermadjesty, mode, modes,  aux, switch
-#$ AUTHOR: jermadjesty
+#$ KEYWORDS: _jermadjesty, mode, modes,  aux, switch
+#$ AUTHOR: _jermadjesty
 #$ DESCRIPTION: My modes for ELRS on my mambo
 
 #$ INCLUDE: presets/4.3/modes/defaults.txt

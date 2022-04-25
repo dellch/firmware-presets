@@ -1,9 +1,9 @@
-#$ TITLE: jermadjesty ELRS Analog 4.3 OSD settings
+#$ TITLE: _jermadjesty ELRS Analog 4.3 OSD settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: custom, OSD
-#$ AUTHOR: jermadjesty
+#$ AUTHOR: _jermadjesty
 #$ DESCRIPTION: Analog OSD settings with ELRS
 
 #$ INCLUDE: presets/4.3/osd/defaults.txt
