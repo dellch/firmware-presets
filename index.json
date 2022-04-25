@@ -779,17 +779,19 @@
     },
     {
       "fullPath": "presets/4.3/modes/jermadjesty_modes.txt",
-      "hash": "6fc229c4c15a29ddbb3e61cf8e80c53be392f1f908ed9c27900e8d6fddc037b8",
-      "title": "jermadjesty ELRS Analog 4.3 OSD settings",
+      "hash": "3a987f2820a29fcfe2825d0f3cdaa47c32c47e7f8c06c6b7634cd8d76623c02a",
+      "title": "Mambo ELRS Jermadjesty 4.3 Modes",
       "firmware_version": [
         "4.3"
       ],
       "category": "MODES",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
-        "custom",
+        "jermadjesty",
         "mode",
-        "modes"
+        "modes",
+        "aux",
+        "switch"
       ],
       "author": "jermadjesty",
       "priority": 0
