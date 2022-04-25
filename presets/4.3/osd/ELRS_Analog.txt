@@ -46,3 +46,4 @@ set osd_stat_battery = ON
 set osd_stat_min_rssi = OFF
 set osd_stat_bbox = OFF
 set osd_stat_bb_no = OFF
+set osd_rssi_dbm_alarm = -98
