@@ -1,4 +1,4 @@
-#$ TITLE: Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables
+#$ TITLE: VTX - Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: VTX

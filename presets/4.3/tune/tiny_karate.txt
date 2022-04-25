@@ -1,4 +1,4 @@
-#$ TITLE: 533 TinyTrainer Karate
+#$ TITLE: Tune - 533 TinyTrainer Karate
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL

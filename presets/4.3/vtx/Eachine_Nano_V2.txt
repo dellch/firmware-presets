@@ -1,4 +1,4 @@
-#$ TITLE: Eachine Nano V2 VTX Table
+#$ TITLE: VTX - Eachine Nano V2 VTX Table
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: VTX

@@ -1,4 +1,4 @@
-#$ TITLE: Reset selected 4.3 Tune related settings.
+#$ TITLE: Tune - Reset selected 4.3 Tune related settings.
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: OFFICIAL

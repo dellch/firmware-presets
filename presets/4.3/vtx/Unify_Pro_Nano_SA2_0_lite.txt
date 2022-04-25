@@ -1,4 +1,4 @@
-#$ TITLE: TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite
+#$ TITLE: VTX - TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: VTX

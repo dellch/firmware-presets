@@ -1,4 +1,4 @@
-#$ TITLE: UAV Tech - Toothpic (2in to 4in)
+#$ TITLE: Tune - UAV Tech - Toothpic (2in to 4in)
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL

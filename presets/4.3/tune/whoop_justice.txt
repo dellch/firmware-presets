@@ -1,4 +1,4 @@
-#$ TITLE: Whoop race tune by Justice
+#$ TITLE: Tune - Whoop race tune by Justice
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL

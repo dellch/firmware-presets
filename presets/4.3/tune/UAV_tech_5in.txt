@@ -1,4 +1,4 @@
-#$ TITLE: UAV Tech - 5in (~630g AUW)
+#$ TITLE: Tune - UAV Tech - 5in (~630g AUW)
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL

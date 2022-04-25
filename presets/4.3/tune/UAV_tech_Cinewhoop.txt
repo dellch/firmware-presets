@@ -1,4 +1,4 @@
-#$ TITLE: UAV Tech - Cinewhoop
+#$ TITLE: Tune - UAV Tech - Cinewhoop
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL

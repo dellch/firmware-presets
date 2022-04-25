@@ -1,4 +1,4 @@
-#$ TITLE: Reset 4.3 Tune parameters, complete listing
+#$ TITLE: Tune - Reset 4.3 Tune parameters, complete listing
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: OFFICIAL

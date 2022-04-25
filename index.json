@@ -2009,8 +2009,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/freedom_spec_460g.txt",
-      "hash": "5ac3216c39f3b1b630d6938ac943e3b00c38e15585394413d0d424f634db5e16",
-      "title": "Freedom Spec 460 - 500g",
+      "hash": "4d012db2b7b135d88c5aee89c07b5e7702cb0666d9a0e0eb14a5b81d2a7221de",
+      "title": "Tune - Freedom Spec 460 - 500g",
       "firmware_version": [
         "4.3"
       ],
@@ -2034,8 +2034,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/reset_all.txt",
-      "hash": "5b9d76fd857aa8637c394a13e86f4dc651173ca559afe3f61556ff2b0742f347",
-      "title": "Reset 4.3 Tune parameters, complete listing",
+      "hash": "101706e3abff6bd737cbb6b9ea0005ae051af4a03cbe9ee2c5f9a9bb0250fdcf",
+      "title": "Tune - Reset 4.3 Tune parameters, complete listing",
       "firmware_version": [
         "4.3"
       ],
@@ -2054,8 +2054,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/reset_some.txt",
-      "hash": "3fa44efe126b5d69036e960559722306bce24c7f1176698a5ff6be21adc2996d",
-      "title": "Reset selected 4.3 Tune related settings.",
+      "hash": "fb41dced75bb0a38051dfcc7754ca29b962d03dd69de49d8cf4ff0d97a26f4ca",
+      "title": "Tune - Reset selected 4.3 Tune related settings.",
       "firmware_version": [
         "4.3"
       ],
@@ -2074,8 +2074,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/tiny_karate.txt",
-      "hash": "a417f87aae3f44caffc5fbf43a6b538053db73b74a94ecb762a362de739d32c5",
-      "title": "533 TinyTrainer Karate",
+      "hash": "cd87dc852fb47955b62ac1bb625a30f6419b587b91f750967d8b048eeb111231",
+      "title": "Tune - 533 TinyTrainer Karate",
       "firmware_version": [
         "4.3"
       ],
@@ -2099,8 +2099,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_5in.txt",
-      "hash": "db11ec74fa5760f5b31c90197f79be79458248ea146f7a3ced7525519d4c9305",
-      "title": "UAV Tech - 5in (~630g AUW)",
+      "hash": "3cee7177a0b51e9ad7b3b050dc123d32c8cee647fc56798a77abad76bf34c035",
+      "title": "Tune - UAV Tech - 5in (~630g AUW)",
       "firmware_version": [
         "4.3"
       ],
@@ -2118,8 +2118,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_6-7in.txt",
-      "hash": "af9aaeaea38e9c44cd49214ae98d5d04859e9ab12588ce5dd342cfa3e1b0be37",
-      "title": "UAV Tech - 6-7in (~700g AUW)",
+      "hash": "357ee8a5a7dac61cf42c1c079057c630d6a2212fb5af41b10fece5a6c2f6b7b7",
+      "title": "Tune - UAV Tech - 6-7in (~700g AUW)",
       "firmware_version": [
         "4.3"
       ],
@@ -2140,8 +2140,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_8-9in.txt",
-      "hash": "7a86ab26a50a7e3fe1d2e506a4486e03672787ecd63b1a233989cf900fb72cea",
-      "title": "UAV Tech - 8-9in (~750g AUW)",
+      "hash": "7081e5f51a456c3ba888739009cfc92298c37d71ce1da4f4d3869b370c4f150f",
+      "title": "Tune - UAV Tech - 8-9in (~750g AUW)",
       "firmware_version": [
         "4.3"
       ],
@@ -2162,8 +2162,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_8-9in_Cinelifter.txt",
-      "hash": "3095ffbd6584fe3af610bbc7cc9a14b002082e644b20e7a36cffb5d792288cab",
-      "title": "UAV Tech - 8-9in Cinelifter (>2,000g AUW)",
+      "hash": "5bc17be142bf3e1733f47e638008846b5e08556e622141c56b629b26611ee792",
+      "title": "Tune - UAV Tech - 8-9in Cinelifter (>2,000g AUW)",
       "firmware_version": [
         "4.3"
       ],
@@ -2183,8 +2183,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_Cinewhoop.txt",
-      "hash": "d408ae55e64986f84cf8d07428200b4dc88b44e3b30ef2df711818d2ecc17c4d",
-      "title": "UAV Tech - Cinewhoop",
+      "hash": "48d373a62dea314822977456e77ea5eec0908b3128e884c1bee4ab864a008bdf",
+      "title": "Tune - UAV Tech - Cinewhoop",
       "firmware_version": [
         "4.3"
       ],
@@ -2198,8 +2198,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_Toothpic.txt",
-      "hash": "4453e4d8a25f97a96de25e53ef29e77961cd2f2335e15205251599a28aa740af",
-      "title": "UAV Tech - Toothpic (2in to 4in)",
+      "hash": "a0626640892316671d3abf5af309864794f7ef2a28b233534bce91267ef503c7",
+      "title": "Tune - UAV Tech - Toothpic (2in to 4in)",
       "firmware_version": [
         "4.3"
       ],
@@ -2220,8 +2220,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_Whoop.txt",
-      "hash": "bb4f0552015b1e5109dac54610a82759bceba8f84fbd28909bd342095cf5347f",
-      "title": "UAV Tech - Whoop (1S & 2S)",
+      "hash": "94ca2be199d1bb2c4f8366709a5c790b1bd070095f27302b8a79b97158ed86c4",
+      "title": "Tune - Whoop -UAV Tech - Whoop (1S & 2S)",
       "firmware_version": [
         "4.3"
       ],
@@ -2235,8 +2235,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/whoop_ayyykayyy.txt",
-      "hash": "18a0a21b675f4c2e4719bae8d448684e58b51981f657755fe4c2f95e7eaea2c7",
-      "title": "Whoop race tune by AyyyKayyy",
+      "hash": "a9b033a88937abdb1682936c8ed79198fc35715158435cda2626a3751a9d589a",
+      "title": "Tune - Whoop race tune by AyyyKayyy",
       "firmware_version": [
         "4.3"
       ],
@@ -2259,8 +2259,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/whoop_justice.txt",
-      "hash": "8ffd94378502eb5498b290188345b98b9ad8c4d117d8f87edbedbfa179eb119b",
-      "title": "Whoop race tune by Justice",
+      "hash": "2808bfc2b7bce436f30d6fa7a315857b05540d7a3e1156a1aa0397f857bb8c0d",
+      "title": "Tune - Whoop race tune by Justice",
       "firmware_version": [
         "4.3"
       ],
@@ -2282,8 +2282,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
-      "hash": "f771542d93f15f993d39d97f9004ede104ba7dfebff45f68863aa25f30275388",
-      "title": "Default 4.3 VTX settings",
+      "hash": "adcca6d7148e5dc62b3f191880d1367989adc305c7b85ecbf93179c96ec6a660",
+      "title": "VTX - Default 4.3 VTX settings",
       "firmware_version": [
         "4.3"
       ],
@@ -2300,8 +2300,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/defaults_vtx_tables.txt",
-      "hash": "ca7751007ea115e4aef9cfc8051832205100ab4d0be45b9694d506f193cdb1d6",
-      "title": "Default 4.3 VTX table settings",
+      "hash": "727061afade77372d04210bef87370521fb6693ea4ae1935d90263410f7f4163",
+      "title": "VTX - Default 4.3 VTX table settings",
       "firmware_version": [
         "4.3"
       ],
@@ -2319,8 +2319,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/diatone_mamba_ultra_1000.txt",
-      "hash": "f058b040995b0054977e5a70298cc26b699ea7c64d825e55fbf55905b3aac74e",
-      "title": "Diatone Mamba Ultra 1000 VTX Tables",
+      "hash": "fe29253099ae2bf92cf932f56e0252a266681a40ead547fae1cac3e2dd1d1546",
+      "title": "VTX - Diatone Mamba Ultra 1000 VTX Tables",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2341,8 +2341,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Eachine_Nano_V2.txt",
-      "hash": "501c014c05fd0d9b46c0cab00c6dc9edabee5dfb89ce8e2e5a9bdda03778c93b",
-      "title": "Eachine Nano V2 VTX Table",
+      "hash": "81c17230cd1bb06457824e6c03007cf2351424a03bc009463a888dcb9ad69672",
+      "title": "VTX - Eachine Nano V2 VTX Table",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2368,8 +2368,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/HDZero_race2.txt",
-      "hash": "0f0b8f7a8bfe4c48fe1897e58c3de4977a45550b4316aa856be00ffe97e0061a",
-      "title": "HDZero race 2",
+      "hash": "e57bdd14895a7603d8fb31f57119f54f60e7d47a1b4f9d1dee84698ec44cf49d",
+      "title": "VTX - HDZero race 2",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2389,8 +2389,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/NanoHawk.txt",
-      "hash": "86e37f00a44c33cca95989a0ce78735c12744dbe230a373278aca86b3c159b19",
-      "title": "Emax NanoHawk 1S SmartAudio 2.0 VTX table",
+      "hash": "9164f7877a35a4fe4a66c07e017dc0655c318378737c0ad8b74f9404ae3ca9da",
+      "title": "VTX - Emax NanoHawk 1S SmartAudio 2.0 VTX table",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2411,8 +2411,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/OpenVTx.txt",
-      "hash": "1cbb15ca60cd1392001158a2c73857d7b1481255c09723dcdf1d037bc1edb5fe",
-      "title": "OpenVTx",
+      "hash": "10b7eb0c207d2db4fbc418e8af05816d50a7c4d95a2824b8297ffa9d81d5988a",
+      "title": "VTX - OpenVTx",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2435,8 +2435,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/rush_sa2.1_vtx_tables.txt",
-      "hash": "22aadeaaf187206e8e33fe426586de11dcfb1ea0ef3e56850ff9aabd37078b14",
-      "title": "Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
+      "hash": "b588a95cfcdcfbe9b28eea203192f5e64159fe945e7752e3874bd2c15fd54069",
+      "title": "VTX - Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2458,8 +2458,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/speedybee_tx800.txt",
-      "hash": "6fc6fff69555a43b7fb37943479e868403cd571549ea6b4d905c0d633f5968ee",
-      "title": "SpeedyBee TX800 VTX Tables",
+      "hash": "55a9ddd20235ea69d9e0424f8815974fedfe923b78cbc7c5769339dc90004068",
+      "title": "VTX - SpeedyBee TX800 VTX Tables",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2477,8 +2477,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
-      "hash": "0a496b6215aae4a72cbe0c1c1a3bc5d225609ebf25318c428abd6ad383e9bcfe",
-      "title": "IRC Tramp Nano and HV",
+      "hash": "dcdf4bbe908bbffb9e8a71966bcf728e591f2732824160463ce6aba7d7704b86",
+      "title": "VTX - IRC Tramp Nano and HV",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2498,8 +2498,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_EVO_5G8_HV_SA.txt",
-      "hash": "1065525a75ef9c3c4d5adff000011c2e65a13aab8cac5755dae5571fd3faa605",
-      "title": "TBS Unify EVO 5G8 (HV) - SA 2.1",
+      "hash": "b393147828c36cc5a89ff857752853d36a0ee08ef44932c7d2d656fad3503240",
+      "title": "VTX - TBS Unify EVO 5G8 (HV) - SA 2.1",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2521,8 +2521,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro32_HV_SA2_1.txt",
-      "hash": "c7bb36ac2e9d27f3caae5ffaeae2f16c7e431ff8ea36f13a2a2c15794e7442e5",
-      "title": "TBS Unify Pro32 HV SA 2.1",
+      "hash": "fdeec3eccba4703cef7333e953462f069ed86a84bcd9f4a361b35e11aa2ca4ce",
+      "title": "VTX - TBS Unify Pro32 HV SA 2.1",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2543,8 +2543,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro32_Nano_SA2_1.txt",
-      "hash": "d0ba39e4ac3552a2f52aad85abc010cae1cc799e33adc192acd26cf704bac62f",
-      "title": "TBS Unify Pro32 Nano - SA 2.1",
+      "hash": "9cbdcccab453e04adfdad8e4a3421d46c9d40cb5001156ae9fb9953b187b694d",
+      "title": "VTX - TBS Unify Pro32 Nano - SA 2.1",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2565,8 +2565,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_HV_800mw_Unify_Pro_V3_SA_2_0.txt",
-      "hash": "0c01584517d2c091c6331570f4cb3270841a831ae794bf2cb7bf6db9d58e12a9",
-      "title": "TBS Unify Pro HV 800mw / TBS Unify Pro V3 (5v) SA 2.0",
+      "hash": "95e59a1390669da28a3f8b595ee53d5c1411c5eab16b93c6881b75db3d3929ba",
+      "title": "VTX - TBS Unify Pro HV 800mw / TBS Unify Pro V3 (5v) SA 2.0",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2586,8 +2586,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_HV_Race_Not_Race_V2_SA2_0.txt",
-      "hash": "5eca61072af03cbd13c0b00e6a44e72a2348d72e5f7067df0bb8a44905cf616d",
-      "title": "TBS Unify Pro HV Race (Not Race V2) SA 2.0",
+      "hash": "d2a478d3a524fe263af0eab7530c6dd2f84f57d7e2c276e9fcb0464ab85b3dfc",
+      "title": "VTX - TBS Unify Pro HV Race (Not Race V2) SA 2.0",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2607,8 +2607,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_HV_Race_V2 _SA2_1.txt",
-      "hash": "258d45b78ab26c8882e81bd1525b5d2169189936c952268a702c887e34d7ec10",
-      "title": "TBS Unify Pro HV Race (Not Race V2) - SA 2.0",
+      "hash": "dcb9cdccd33f8b599f24336189d93057f6a698b1c9ad7a91c067d96a067b2a8a",
+      "title": "VTX - TBS Unify Pro HV Race (Not Race V2) - SA 2.0",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -2628,8 +2628,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_Nano_SA2_0_lite.txt",
-      "hash": "40ad77766336eca6fb8070e8731678ec29f9cf964cfeb2833de9a2d1f1e1e75d",
-      "title": "TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite",
+      "hash": "b7843b292a3cbfa6e073990e05667021c76726648376cd465fcd54cd853a8b40",
+      "title": "VTX - TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite",
       "firmware_version": [
         "4.2",
         "4.3"

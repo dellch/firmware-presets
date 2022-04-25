@@ -1,4 +1,4 @@
-#$ TITLE: IRC Tramp Nano and HV
+#$ TITLE: VTX - IRC Tramp Nano and HV
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: VTX
