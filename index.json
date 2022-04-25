@@ -293,6 +293,7 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
+      "jermadjesty",
       "justice",
       "karate",
       "KarateBrot",
@@ -757,7 +758,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/defaults.txt",
-      "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
+      "hash": "c261230bfce259dc7b72564d6d63830cee79381f270a64f3c6a9fbd416f98ee6",
       "title": "Default 4.3 Modes and Adjustment settings",
       "firmware_version": [
         "4.3"
@@ -774,6 +775,22 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/jermadjesty.txt",
+      "hash": "c932d2beffa3de83cfa1c19fa4c6975bf37bc34bf6849fa64a5df8f71ed41930",
+      "title": "jermadjesty ELRS Analog 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "custom",
+        "OSD"
+      ],
+      "author": "jermadjesty",
       "priority": 0
     },
     {
@@ -795,7 +812,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/ELRS_Analog.txt",
-      "hash": "aa3afcca78231fd09633907138219b974ba579a99dd4893fa000ba7ae0075576",
+      "hash": "c932d2beffa3de83cfa1c19fa4c6975bf37bc34bf6849fa64a5df8f71ed41930",
       "title": "jermadjesty ELRS Analog 4.3 OSD settings",
       "firmware_version": [
         "4.3"
@@ -1217,6 +1234,22 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/jermadjesty.txt",
+      "hash": "3956edb923f577ad87d9884c6b28d1ad416c83516461ddbba63eee3dbb24899f",
+      "title": "Jermadjestic rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "jermadjesty",
+        "freestyle"
+      ],
+      "author": "jermadjesty",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/limon.txt",
       "hash": "07372fdf1beee407d23e977a89f414c40dc1aaa620069c46a2b0a51bd49da2a0",
       "title": "Limon racing rates",
@@ -1394,6 +1427,29 @@
         "smoothing"
       ],
       "author": "ctzsnooze",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/elrs_250hz_jermadjesty.txt",
+      "hash": "d24c4795bf7c255c9d62201bc8ddf650bae39b901f6f128cb10400ae9e39f2aa",
+      "title": "SPI Jermadjesty's ELRS 250Hz",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "ELRS",
+        "jermadjesty",
+        "express",
+        "250Hz",
+        "rc",
+        "rx",
+        "link",
+        "smoothing"
+      ],
+      "author": "jermadjesty",
       "force_options_review": true,
       "priority": 10000000000
     },
