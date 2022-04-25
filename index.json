@@ -293,6 +293,7 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
+      "jermadjesty",
       "justice",
       "karate",
       "KarateBrot",
@@ -1394,6 +1395,29 @@
         "smoothing"
       ],
       "author": "ctzsnooze",
+      "force_options_review": true,
+      "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/rc_link/elrs_250hz_jermadjesty.txt",
+      "hash": "d24c4795bf7c255c9d62201bc8ddf650bae39b901f6f128cb10400ae9e39f2aa",
+      "title": "SPI Jermadjesty's ELRS 250Hz",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "ELRS",
+        "jermadjesty",
+        "express",
+        "250Hz",
+        "rc",
+        "rx",
+        "link",
+        "smoothing"
+      ],
+      "author": "jermadjesty",
       "force_options_review": true,
       "priority": 10000000000
     },
